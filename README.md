@@ -1,16 +1,26 @@
-## Hi there 👋
+# Reaver's GitHub Profile
 
-<!--
-**Reaver-code/Reaver-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a marketing graduate currently learning to code with the goal of becoming an excellent full stack developer and building a career in the field. I am currently studying for a Master's degree with ConquerBlocks and learning independently.
 
-Here are some ideas to get you started:
+Any help or guidance is always appreciated!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## The technologies i am currently learning are:
+
+- Python 
+- SQL
+- Git
+- Streamlit
+
+### Backend
+- Django
+- Java
+- Node JS
+- Rust
+
+### Frontend
+- HTML
+- CSS
+- Javascript
+- Typescript
+- ReactJS
+- Astro
